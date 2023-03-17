@@ -59,17 +59,4 @@ def add_time(start, duration, day=False):
         return time+", "+day
     else:
         return time +", "+day+" ("+str(days)+" days later)"
-
-
-
-
-
-
-
-
-
-
-
-
-
     return new_time
